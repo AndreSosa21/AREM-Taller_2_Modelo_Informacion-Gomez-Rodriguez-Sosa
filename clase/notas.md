@@ -21,11 +21,15 @@ Durante la sesión trabajamos con el caso base de la **Clínica Salud Viva** par
 
 ## 🧩 Boceto inicial del modelo
 
-**Modelo ER borrador:** `modelo-er-borrador.drawio`  
+**Modelo ER borrador:**  
 Incluye las 5 entidades (Paciente, Médico, Especialidad, Cita, Factura) con sus atributos principales y relaciones.
 
-**Diagrama de contexto borrador:** `contexto-borrador.drawio`  
+![Modelo ER Borrador](./modelo-er-borrador.png)
+
+**Diagrama de contexto borrador:**  
 Muestra el sistema central con sus módulos internos, actores externos (Paciente, Médico, Asistente, Aseguradora) y los flujos de datos entre ellos.
+
+![Diagrama de Contexto Borrador](./contexto-borrador.png)
 
 ## 🔁 Tareas definidas para complementar el taller
 
