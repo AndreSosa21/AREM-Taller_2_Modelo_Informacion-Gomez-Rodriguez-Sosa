@@ -8,7 +8,6 @@ Taller 2: Modelo de Información y Diagrama de Contexto
 - Samuel Rodriguez - sam200630
 
 ## 🧠 Descripción general del trabajo
-Describa brevemente el objetivo del taller y cómo se desarrolló la actividad. (FALTA)
 
 ## 🔧 Proceso de desarrollo
 Explique cómo realizaron el trabajo: qué decisiones tomaron, qué herramientas utilizaron, qué aspectos modelaron primero y cómo lo fueron ajustando. (FALTA)
