@@ -88,7 +88,8 @@ El modelo permite:
 
 Esto permite automatizar el proceso que actualmente se realiza manualmente mediante formularios y hojas de cálculo.
 ## 📈 Diagrama final entregado
-> (Inserte aquí una imagen o enlace al modelo-final.drawio / .asta / PDF)
+> ![Diagrama de contexto](./modelo-final-er.png)
+
 
 ## 📋 Tabla de actores, entidades o componentes (si aplica)
 
